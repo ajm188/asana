@@ -1,0 +1,6 @@
+[package]
+name = "asana"
+version = "0.1.0"
+authors = ["Andrew Mason <andrew@fixedpoint.xyz>"]
+
+[dependencies]
